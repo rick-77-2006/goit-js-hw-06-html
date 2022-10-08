@@ -11,3 +11,4 @@ function onOutputChange(event) {
         refs.output.textContent = "Anonymous";
     }
 }
+
